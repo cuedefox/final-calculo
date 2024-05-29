@@ -22,9 +22,10 @@ body {
 }
 
 $background: #ebeae9;
+$principal: #007BFF;
 
 .button {
-    background-color: #04AA6D; /* Green */
+    background-color: $principal;
     border: none;
     color: white;
     padding: 16px 32px;
@@ -37,9 +38,9 @@ $background: #ebeae9;
     cursor: pointer;
     background-color: white; 
     color: black; 
-    border: 2px solid #04AA6D;
+    border: 2px solid $principal;
     &:hover {
-        background-color: #04AA6D;
+        background-color: $principal;
         color: white;
     }
 }

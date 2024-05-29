@@ -1,0 +1,14 @@
+.game-container {
+    display: flex;
+    flex-flow: nowrap;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    gap: 4em;
+    .options {
+        min-height: 60vh;
+        background-color: $background;
+        min-width: 20%;
+        border-radius: 8px;
+    }
+}
