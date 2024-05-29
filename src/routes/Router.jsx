@@ -20,7 +20,7 @@ const router = createBrowserRouter([
         element: <Game />,
       },
       {
-        path: "final",
+        path: "final/:score",
         element: <Final />,
       }
     ]

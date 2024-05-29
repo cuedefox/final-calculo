@@ -1,9 +1,12 @@
-import { Link } from "react-router-dom";
+import React from 'react';
+import { Link, useParams } from 'react-router-dom';
 
 const Final = () => {
-    return <>
+    const { score } = useParams();
+
+    return (
         <div>
-            <h2>Puntuacion:</h2>
+            <h2>Puntuacion: {score} / 10</h2>
             <div>
                 <Link to='/game'>
                     <button>Jugar de nuevo</button>
@@ -13,7 +16,7 @@ const Final = () => {
                 </Link>
             </div>
         </div>
-    </>
-}
+    );
+};
 
 export default Final;
