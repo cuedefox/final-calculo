@@ -1,0 +1,20 @@
+.home-container {
+    min-height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    div {
+        display: flex;
+        flex-flow: column nowrap;
+        align-items: center;
+        justify-content: center;
+        border-radius: 10%;
+        width: 70%;
+        height: 50vh;
+        background-color: $background;
+        gap: 5em;
+        h1 {
+            font-size: 3em;
+        }
+    }
+}
