@@ -1,0 +1,32 @@
+[
+    {
+      "question": "¿Cuál es la derivada de la función f(x) = x^2?",
+      "graph": "images/graph1.png",
+      "answers": [
+        {"text": "2x", "isCorrect": true},
+        {"text": "x^2", "isCorrect": false},
+        {"text": "3x", "isCorrect": false},
+        {"text": "2", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
+      "graph": "images/graph2.png",
+      "answers": [
+        {"text": "2", "isCorrect": false},
+        {"text": "0", "isCorrect": true},
+        {"text": "1", "isCorrect": false},
+        {"text": "-1", "isCorrect": false}
+      ]
+    },
+    {
+      "question": "¿Cuál es el valor de la función f(x) = e^x en x = 1?",
+      "graph": "images/graph3.png",
+      "answers": [
+        {"text": "e", "isCorrect": true},
+        {"text": "1", "isCorrect": false},
+        {"text": "0", "isCorrect": false},
+        {"text": "2", "isCorrect": false}
+      ]
+    }
+  ]
