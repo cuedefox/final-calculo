@@ -5,15 +5,17 @@ const Final = () => {
     const { score } = useParams();
 
     return (
-        <div>
-            <h2>Puntuacion: {score} / 10</h2>
-            <div>
-                <Link to='/game'>
-                    <button>Jugar de nuevo</button>
-                </Link>
-                <Link to='/'>
-                    <button>Volver al inicio</button>
-                </Link>
+        <div className='final-container'>
+            <div className='score-container'>
+                <h2>Puntuacion: {score} / 10</h2>
+                <div>
+                    <Link to='/game'>
+                        <button className='button'>Jugar de nuevo</button>
+                    </Link>
+                    <Link to='/'>
+                        <button className='button'>Volver al inicio</button>
+                    </Link>
+                </div>
             </div>
         </div>
     );

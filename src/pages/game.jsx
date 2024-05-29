@@ -68,12 +68,13 @@ const Game = () => {
                                     value={answer.text}
                                     checked={selectedOption === answer.text}
                                     onChange={handleOptionChange}
+                                    className='radio'
                                 />
                                 {answer.text}
                             </label>
                         ))}
                         <br />
-                        <input type="submit" value="Subir" />
+                        <input type="submit" value="Subir" className='button' />
                     </form>
                 </div>
             </div>

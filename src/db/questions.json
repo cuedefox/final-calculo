@@ -1,162 +1,202 @@
 [
-    {
-      "question": "¿Cuál es la derivada de la función f(x) = x^2?",
-      "graph": "images/graph1.png",
-      "answers": [
-        {"text": "2x", "isCorrect": true},
-        {"text": "x^2", "isCorrect": false},
-        {"text": "3x", "isCorrect": false},
-        {"text": "2", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es el valor de la función f(x) = e^x en x = 1?",
-      "graph": "images/graph3.png",
-      "answers": [
-        {"text": "e", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "0", "isCorrect": false},
-        {"text": "2", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    },
-    {
-      "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-      "graph": "images/graph2.png",
-      "answers": [
-        {"text": "2", "isCorrect": false},
-        {"text": "0", "isCorrect": true},
-        {"text": "1", "isCorrect": false},
-        {"text": "-1", "isCorrect": false}
-      ]
-    }
-  ]
+  {
+    "question": "¿Cuál es la derivada de la función f(x) = x^2?",
+    "graph": "images/graph1.png",
+    "answers": [
+      {"text": "2x", "isCorrect": true},
+      {"text": "x^2", "isCorrect": false},
+      {"text": "3x", "isCorrect": false},
+      {"text": "2", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
+    "graph": "images/graph2.png",
+    "answers": [
+      {"text": "2", "isCorrect": false},
+      {"text": "0", "isCorrect": true},
+      {"text": "1", "isCorrect": false},
+      {"text": "-1", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es el valor de la función f(x) = e^x en x = 1?",
+    "graph": "images/graph3.png",
+    "answers": [
+      {"text": "e", "isCorrect": true},
+      {"text": "1", "isCorrect": false},
+      {"text": "0", "isCorrect": false},
+      {"text": "2", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es la derivada de la función f(x) = 3x^3?",
+    "graph": "images/graph4.png",
+    "answers": [
+      {"text": "9x^2", "isCorrect": true},
+      {"text": "3x^2", "isCorrect": false},
+      {"text": "6x", "isCorrect": false},
+      {"text": "9x", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es la integral indefinida de la función f(x) = 1/x?",
+    "graph": "images/graph5.png",
+    "answers": [
+      {"text": "ln|x| + C", "isCorrect": true},
+      {"text": "1/x + C", "isCorrect": false},
+      {"text": "x + C", "isCorrect": false},
+      {"text": "e^x + C", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es la derivada de la función f(x) = cos(x)?",
+    "graph": "images/graph6.png",
+    "answers": [
+      {"text": "-sin(x)", "isCorrect": true},
+      {"text": "sin(x)", "isCorrect": false},
+      {"text": "cos(x)", "isCorrect": false},
+      {"text": "-cos(x)", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es la derivada de la función f(x) = ln(x)?",
+    "graph": "images/graph7.png",
+    "answers": [
+      {"text": "1/x", "isCorrect": true},
+      {"text": "ln(x)", "isCorrect": false},
+      {"text": "x", "isCorrect": false},
+      {"text": "e^x", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es el valor de la función f(x) = log(x) en x = 10?",
+    "graph": "images/graph8.png",
+    "answers": [
+      {"text": "1", "isCorrect": true},
+      {"text": "10", "isCorrect": false},
+      {"text": "0", "isCorrect": false},
+      {"text": "2", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es la derivada de la función f(x) = tan(x)?",
+    "graph": "images/graph9.png",
+    "answers": [
+      {"text": "sec^2(x)", "isCorrect": true},
+      {"text": "tan^2(x)", "isCorrect": false},
+      {"text": "cos^2(x)", "isCorrect": false},
+      {"text": "-sec^2(x)", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es la integral indefinida de la función f(x) = cos(x)?",
+    "graph": "images/graph10.png",
+    "answers": [
+      {"text": "sin(x) + C", "isCorrect": true},
+      {"text": "-sin(x) + C", "isCorrect": false},
+      {"text": "cos(x) + C", "isCorrect": false},
+      {"text": "-cos(x) + C", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es la derivada de la función f(x) = e^(2x)?",
+    "graph": "images/graph11.png",
+    "answers": [
+      {"text": "2e^(2x)", "isCorrect": true},
+      {"text": "e^(2x)", "isCorrect": false},
+      {"text": "2e^(x)", "isCorrect": false},
+      {"text": "2xe^(2x)", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es el valor de la función f(x) = x^3 en x = 2?",
+    "graph": "images/graph12.png",
+    "answers": [
+      {"text": "8", "isCorrect": true},
+      {"text": "6", "isCorrect": false},
+      {"text": "4", "isCorrect": false},
+      {"text": "2", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es la derivada de la función f(x) = x^2 + 2x?",
+    "graph": "images/graph13.png",
+    "answers": [
+      {"text": "2x + 2", "isCorrect": true},
+      {"text": "x^2", "isCorrect": false},
+      {"text": "2x", "isCorrect": false},
+      {"text": "2", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es la integral definida de la función f(x) = x en el intervalo [0, 1]?",
+    "graph": "images/graph14.png",
+    "answers": [
+      {"text": "1/2", "isCorrect": true},
+      {"text": "1", "isCorrect": false},
+      {"text": "0", "isCorrect": false},
+      {"text": "1/3", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es la derivada de la función f(x) = x^4?",
+    "graph": "images/graph15.png",
+    "answers": [
+      {"text": "4x^3", "isCorrect": true},
+      {"text": "4x^4", "isCorrect": false},
+      {"text": "x^3", "isCorrect": false},
+      {"text": "4", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es el valor de la función f(x) = sqrt(x) en x = 4?",
+    "graph": "images/graph16.png",
+    "answers": [
+      {"text": "2", "isCorrect": false},
+      {"text": "4", "isCorrect": false},
+      {"text": "1", "isCorrect": false},
+      {"text": "2", "isCorrect": true}
+    ]
+  },
+  {
+    "question": "¿Cuál es la integral indefinida de la función f(x) = e^x?",
+    "graph": "images/graph17.png",
+    "answers": [
+      {"text": "e^x + C", "isCorrect": true},
+      {"text": "e^x", "isCorrect": false},
+      {"text": "x * e^x", "isCorrect": false},
+      {"text": "ln|x| + C", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es la derivada de la función f(x) = 5x?",
+    "graph": "images/graph18.png",
+    "answers": [
+      {"text": "5", "isCorrect": true},
+      {"text": "5x", "isCorrect": false},
+      {"text": "x", "isCorrect": false},
+      {"text": "1", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es la integral indefinida de la función f(x) = x^2?",
+    "graph": "images/graph19.png",
+    "answers": [
+      {"text": "x^3/3 + C", "isCorrect": true},
+      {"text": "x^3 + C", "isCorrect": false},
+      {"text": "2x + C", "isCorrect": false},
+      {"text": "x/3 + C", "isCorrect": false}
+    ]
+  },
+  {
+    "question": "¿Cuál es el valor de la función f(x) = 3x^2 en x = 3?",
+    "graph": "images/graph20.png",
+    "answers": [
+      {"text": "27", "isCorrect": true},
+      {"text": "9", "isCorrect": false},
+      {"text": "18", "isCorrect": false},
+      {"text": "6", "isCorrect": false}
+    ]
+  }
+]
