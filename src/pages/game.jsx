@@ -44,7 +44,7 @@ const Game = () => {
             setCurrentQuestionIndex(nextQuestionIndex);
             setSelectedOption('');
         } else {
-            navigate('/final' + score);
+            navigate('/final/' + score);
         }
     };
 
