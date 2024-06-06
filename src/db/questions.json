@@ -1,202 +1,546 @@
 [
   {
     "question": "¿Cuál es la derivada de la función f(x) = x^2?",
-    "graph": "images/graph1.png",
+    "graph": "images/1.png",
     "answers": [
-      {"text": "2x", "isCorrect": true},
-      {"text": "x^2", "isCorrect": false},
-      {"text": "3x", "isCorrect": false},
-      {"text": "2", "isCorrect": false}
-    ]
+      {
+        "text": "2x",
+        "isCorrect": true
+      },
+      {
+        "text": "x^2",
+        "isCorrect": false
+      },
+      {
+        "text": "3x",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "id": 1
   },
   {
     "question": "¿Cuál es la integral definida de la función f(x) = sen(x) en el intervalo [0, π]?",
-    "graph": "images/graph2.png",
+    "graph": "images/2.PNG",
     "answers": [
-      {"text": "2", "isCorrect": false},
-      {"text": "0", "isCorrect": true},
-      {"text": "1", "isCorrect": false},
-      {"text": "-1", "isCorrect": false}
-    ]
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "-1",
+        "isCorrect": false
+      }
+    ],
+    "id": 2
   },
   {
     "question": "¿Cuál es el valor de la función f(x) = e^x en x = 1?",
-    "graph": "images/graph3.png",
+    "graph": "images/3.PNG",
     "answers": [
-      {"text": "e", "isCorrect": true},
-      {"text": "1", "isCorrect": false},
-      {"text": "0", "isCorrect": false},
-      {"text": "2", "isCorrect": false}
-    ]
+      {
+        "text": "e",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "id": 3
   },
   {
     "question": "¿Cuál es la derivada de la función f(x) = 3x^3?",
-    "graph": "images/graph4.png",
+    "graph": "images/4.PNG",
     "answers": [
-      {"text": "9x^2", "isCorrect": true},
-      {"text": "3x^2", "isCorrect": false},
-      {"text": "6x", "isCorrect": false},
-      {"text": "9x", "isCorrect": false}
-    ]
+      {
+        "text": "9x^2",
+        "isCorrect": true
+      },
+      {
+        "text": "3x^2",
+        "isCorrect": false
+      },
+      {
+        "text": "6x",
+        "isCorrect": false
+      },
+      {
+        "text": "9x",
+        "isCorrect": false
+      }
+    ],
+    "id": 4
   },
   {
     "question": "¿Cuál es la integral indefinida de la función f(x) = 1/x?",
-    "graph": "images/graph5.png",
+    "graph": "images/5.PNG",
     "answers": [
-      {"text": "ln|x| + C", "isCorrect": true},
-      {"text": "1/x + C", "isCorrect": false},
-      {"text": "x + C", "isCorrect": false},
-      {"text": "e^x + C", "isCorrect": false}
-    ]
+      {
+        "text": "ln|x| + C",
+        "isCorrect": true
+      },
+      {
+        "text": "1/x + C",
+        "isCorrect": false
+      },
+      {
+        "text": "x + C",
+        "isCorrect": false
+      },
+      {
+        "text": "e^x + C",
+        "isCorrect": false
+      }
+    ],
+    "id": 5
   },
   {
     "question": "¿Cuál es la derivada de la función f(x) = cos(x)?",
-    "graph": "images/graph6.png",
+    "graph": "images/6.PNG",
     "answers": [
-      {"text": "-sin(x)", "isCorrect": true},
-      {"text": "sin(x)", "isCorrect": false},
-      {"text": "cos(x)", "isCorrect": false},
-      {"text": "-cos(x)", "isCorrect": false}
-    ]
+      {
+        "text": "-sin(x)",
+        "isCorrect": true
+      },
+      {
+        "text": "sin(x)",
+        "isCorrect": false
+      },
+      {
+        "text": "cos(x)",
+        "isCorrect": false
+      },
+      {
+        "text": "-cos(x)",
+        "isCorrect": false
+      }
+    ],
+    "id": 6
   },
   {
     "question": "¿Cuál es la derivada de la función f(x) = ln(x)?",
-    "graph": "images/graph7.png",
+    "graph": "images/7.PNG",
     "answers": [
-      {"text": "1/x", "isCorrect": true},
-      {"text": "ln(x)", "isCorrect": false},
-      {"text": "x", "isCorrect": false},
-      {"text": "e^x", "isCorrect": false}
-    ]
+      {
+        "text": "1/x",
+        "isCorrect": true
+      },
+      {
+        "text": "ln(x)",
+        "isCorrect": false
+      },
+      {
+        "text": "x",
+        "isCorrect": false
+      },
+      {
+        "text": "e^x",
+        "isCorrect": false
+      }
+    ],
+    "id": 7
   },
   {
-    "question": "¿Cuál es el valor de la función f(x) = log(x) en x = 10?",
-    "graph": "images/graph8.png",
+    "question": "¿Cuál es el valor de la función f(x) = log10(x) en x = 10?",
+    "graph": "images/8.PNG",
     "answers": [
-      {"text": "1", "isCorrect": true},
-      {"text": "10", "isCorrect": false},
-      {"text": "0", "isCorrect": false},
-      {"text": "2", "isCorrect": false}
-    ]
+      {
+        "text": "1",
+        "isCorrect": true
+      },
+      {
+        "text": "10",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "id": 8
   },
   {
     "question": "¿Cuál es la derivada de la función f(x) = tan(x)?",
-    "graph": "images/graph9.png",
+    "graph": "images/9.PNG",
     "answers": [
-      {"text": "sec^2(x)", "isCorrect": true},
-      {"text": "tan^2(x)", "isCorrect": false},
-      {"text": "cos^2(x)", "isCorrect": false},
-      {"text": "-sec^2(x)", "isCorrect": false}
-    ]
+      {
+        "text": "sec^2(x)",
+        "isCorrect": true
+      },
+      {
+        "text": "tan^2(x)",
+        "isCorrect": false
+      },
+      {
+        "text": "cos^2(x)",
+        "isCorrect": false
+      },
+      {
+        "text": "-sec^2(x)",
+        "isCorrect": false
+      }
+    ],
+    "id": 9
   },
   {
     "question": "¿Cuál es la integral indefinida de la función f(x) = cos(x)?",
-    "graph": "images/graph10.png",
+    "graph": "images/10.PNG",
     "answers": [
-      {"text": "sin(x) + C", "isCorrect": true},
-      {"text": "-sin(x) + C", "isCorrect": false},
-      {"text": "cos(x) + C", "isCorrect": false},
-      {"text": "-cos(x) + C", "isCorrect": false}
-    ]
+      {
+        "text": "sin(x) + C",
+        "isCorrect": true
+      },
+      {
+        "text": "-sin(x) + C",
+        "isCorrect": false
+      },
+      {
+        "text": "cos(x) + C",
+        "isCorrect": false
+      },
+      {
+        "text": "-cos(x) + C",
+        "isCorrect": false
+      }
+    ],
+    "id": 10
   },
   {
     "question": "¿Cuál es la derivada de la función f(x) = e^(2x)?",
-    "graph": "images/graph11.png",
+    "graph": "images/11.PNG",
     "answers": [
-      {"text": "2e^(2x)", "isCorrect": true},
-      {"text": "e^(2x)", "isCorrect": false},
-      {"text": "2e^(x)", "isCorrect": false},
-      {"text": "2xe^(2x)", "isCorrect": false}
-    ]
+      {
+        "text": "2e^(2x)",
+        "isCorrect": true
+      },
+      {
+        "text": "e^(2x)",
+        "isCorrect": false
+      },
+      {
+        "text": "2e^(x)",
+        "isCorrect": false
+      },
+      {
+        "text": "2xe^(2x)",
+        "isCorrect": false
+      }
+    ],
+    "id": 11
   },
   {
     "question": "¿Cuál es el valor de la función f(x) = x^3 en x = 2?",
-    "graph": "images/graph12.png",
+    "graph": "images/12.PNG",
     "answers": [
-      {"text": "8", "isCorrect": true},
-      {"text": "6", "isCorrect": false},
-      {"text": "4", "isCorrect": false},
-      {"text": "2", "isCorrect": false}
-    ]
+      {
+        "text": "8",
+        "isCorrect": true
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "id": 12
   },
   {
     "question": "¿Cuál es la derivada de la función f(x) = x^2 + 2x?",
-    "graph": "images/graph13.png",
+    "graph": "images/13.PNG",
     "answers": [
-      {"text": "2x + 2", "isCorrect": true},
-      {"text": "x^2", "isCorrect": false},
-      {"text": "2x", "isCorrect": false},
-      {"text": "2", "isCorrect": false}
-    ]
+      {
+        "text": "2x + 2",
+        "isCorrect": true
+      },
+      {
+        "text": "x^2",
+        "isCorrect": false
+      },
+      {
+        "text": "2x",
+        "isCorrect": false
+      },
+      {
+        "text": "2",
+        "isCorrect": false
+      }
+    ],
+    "id": 13
   },
   {
     "question": "¿Cuál es la integral definida de la función f(x) = x en el intervalo [0, 1]?",
-    "graph": "images/graph14.png",
+    "graph": "images/14.PNG",
     "answers": [
-      {"text": "1/2", "isCorrect": true},
-      {"text": "1", "isCorrect": false},
-      {"text": "0", "isCorrect": false},
-      {"text": "1/3", "isCorrect": false}
-    ]
+      {
+        "text": "1/2",
+        "isCorrect": true
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "1/3",
+        "isCorrect": false
+      }
+    ],
+    "id": 14
   },
   {
     "question": "¿Cuál es la derivada de la función f(x) = x^4?",
-    "graph": "images/graph15.png",
+    "graph": "images/15.PNG",
     "answers": [
-      {"text": "4x^3", "isCorrect": true},
-      {"text": "4x^4", "isCorrect": false},
-      {"text": "x^3", "isCorrect": false},
-      {"text": "4", "isCorrect": false}
-    ]
+      {
+        "text": "4x^3",
+        "isCorrect": true
+      },
+      {
+        "text": "4x^4",
+        "isCorrect": false
+      },
+      {
+        "text": "x^3",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      }
+    ],
+    "id": 15
   },
   {
-    "question": "¿Cuál es el valor de la función f(x) = sqrt(x) en x = 4?",
-    "graph": "images/graph16.png",
+    "question": "Resuelve:",
+    "graph": "images/16.PNG",
     "answers": [
-      {"text": "2", "isCorrect": false},
-      {"text": "4", "isCorrect": false},
-      {"text": "1", "isCorrect": false},
-      {"text": "2", "isCorrect": true}
-    ]
+      {
+        "text": "2",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      },
+      {
+        "text": "0",
+        "isCorrect": true
+      }
+    ],
+    "id": 16
   },
   {
     "question": "¿Cuál es la integral indefinida de la función f(x) = e^x?",
-    "graph": "images/graph17.png",
+    "graph": "images/17.PNG",
     "answers": [
-      {"text": "e^x + C", "isCorrect": true},
-      {"text": "e^x", "isCorrect": false},
-      {"text": "x * e^x", "isCorrect": false},
-      {"text": "ln|x| + C", "isCorrect": false}
-    ]
+      {
+        "text": "e^x + C",
+        "isCorrect": true
+      },
+      {
+        "text": "e^x",
+        "isCorrect": false
+      },
+      {
+        "text": "x * e^x",
+        "isCorrect": false
+      },
+      {
+        "text": "ln|x| + C",
+        "isCorrect": false
+      }
+    ],
+    "id": 17
   },
   {
     "question": "¿Cuál es la derivada de la función f(x) = 5x?",
-    "graph": "images/graph18.png",
+    "graph": "images/18.PNG",
     "answers": [
-      {"text": "5", "isCorrect": true},
-      {"text": "5x", "isCorrect": false},
-      {"text": "x", "isCorrect": false},
-      {"text": "1", "isCorrect": false}
-    ]
+      {
+        "text": "5",
+        "isCorrect": true
+      },
+      {
+        "text": "5x",
+        "isCorrect": false
+      },
+      {
+        "text": "x",
+        "isCorrect": false
+      },
+      {
+        "text": "1",
+        "isCorrect": false
+      }
+    ],
+    "id": 18
   },
   {
     "question": "¿Cuál es la integral indefinida de la función f(x) = x^2?",
-    "graph": "images/graph19.png",
+    "graph": "images/19.PNG",
     "answers": [
-      {"text": "x^3/3 + C", "isCorrect": true},
-      {"text": "x^3 + C", "isCorrect": false},
-      {"text": "2x + C", "isCorrect": false},
-      {"text": "x/3 + C", "isCorrect": false}
-    ]
+      {
+        "text": "x^3/3 + C",
+        "isCorrect": true
+      },
+      {
+        "text": "x^3 + C",
+        "isCorrect": false
+      },
+      {
+        "text": "2x + C",
+        "isCorrect": false
+      },
+      {
+        "text": "x/3 + C",
+        "isCorrect": false
+      }
+    ],
+    "id": 19
   },
   {
     "question": "¿Cuál es el valor de la función f(x) = 3x^2 en x = 3?",
-    "graph": "images/graph20.png",
+    "graph": "images/20.PNG",
     "answers": [
-      {"text": "27", "isCorrect": true},
-      {"text": "9", "isCorrect": false},
-      {"text": "18", "isCorrect": false},
-      {"text": "6", "isCorrect": false}
-    ]
+      {
+        "text": "27",
+        "isCorrect": true
+      },
+      {
+        "text": "9",
+        "isCorrect": false
+      },
+      {
+        "text": "18",
+        "isCorrect": false
+      },
+      {
+        "text": "6",
+        "isCorrect": false
+      }
+    ],
+    "id": 20
+  },
+  {
+    "question": "¿Qué es el limite de una funcion en un punto?",
+    "graph": "images/21.jpeg",
+    "answers": [
+      {
+        "text": "El límite es un punto exacto en la función.",
+        "isCorrect": false
+      },
+      {
+        "text": "El límite de una función f(x) cuando x tiende a un valor c es el valor al que se aproxima f(x) cuando x se acerca a c.",
+        "isCorrect": true
+      },
+      {
+        "text": "El límite es una raiz de la función.",
+        "isCorrect": false
+      }
+    ],
+    "id": 21
+  },
+  {
+    "question": "Resuelve el límite:",
+    "graph": "images/22.PNG",
+    "answers": [
+      {
+        "text": "0",
+        "isCorrect": false
+      },
+      {
+        "text": "4",
+        "isCorrect": false
+      },
+      {
+        "text": "10",
+        "isCorrect": true
+      },
+      {
+        "text": "11",
+        "isCorrect": false
+      }
+    ],
+    "id": 22
+  },
+  {
+    "question": "¿Qué es un límite lateral?",
+    "graph": "images/23.png",
+    "answers": [
+      {
+        "text": "Un límite lateral es el límite de una función cuando x se aproxima a un punto específico.",
+        "isCorrect": true
+      },
+      {
+        "text": "Un límite lateral es la diferencia de la solución del límite.",
+        "isCorrect": false
+      },
+      {
+        "text": "No existe ese concepto en límites.",
+        "isCorrect": false
+      }
+    ],
+    "id": 23
+  },
+  {
+    "question": "Resuelve la integral:",
+    "graph": "images/24.PNG",
+    "answers": [
+      {
+        "text": "C",
+        "isCorrect": true
+      },
+      {
+        "text": "x + C",
+        "isCorrect": false
+      },
+      {
+        "text": "x^2 + C",
+        "isCorrect": true
+      },
+      {
+        "text": "Indeterminado.",
+        "isCorrect": false
+      }
+    ],
+    "id": 24
   }
 ]
